@@ -12,3 +12,5 @@ I bought a course from Udemy as my learning plan on Python, so I know what to le
 my Medium page here https://medium.com/@auliantyrany
 
 In the name of Allah, The Most Gracious and The Most Merciful, wish me luck!
+
+Day-1 Project: Create a simple Band Name Generator
